@@ -1,0 +1,22 @@
+.top-bar-image {
+
+  background-image: url('../images/web.jpg');
+  background-position: center center;
+  -webkit-background-size: cover;
+       -moz-background-size: cover;
+       -o-background-size: cover;
+       background-size: cover;
+}
+
+.text-center {
+  text-shadow: 3px 3px 2px black;
+}
+
+.lead {
+  font-size: 1rem;
+    font-weight: 200;
+}
+
+section {
+  padding: 50px 0px; 
+}
