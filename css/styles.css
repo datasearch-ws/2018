@@ -1,7 +1,7 @@
 .top-bar-image {
 
   background-image: url('../images/web.jpg');
-  background-position: center center;
+  background-position: center bottom;
   -webkit-background-size: cover;
        -moz-background-size: cover;
        -o-background-size: cover;
@@ -18,5 +18,16 @@
 }
 
 section {
-  padding: 50px 0px; 
+  padding: 50px 0px;
+}
+
+ul {
+    list-style-type: square;
+}
+b {
+    font-weight: bold;
+}
+
+.h1, h1 {
+    font-size: 3rem;
 }
